@@ -1,6 +1,20 @@
 [
    {
       "brand": "Xiaomi",
+      "codename": "rolex",
+      "name": "Redmi 4A",
+      "supported_versions": [
+         {
+            "maintainer_name": "Aryan Kara ",
+            "maintainer_url": "https://forum.xda-developers.com/m/joeyhuab.4936496",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-raphael-official-evolution-x-snow.4356861"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "raphael",
       "name": "Mi 9T Pro / Redmi K20 Pro",
       "supported_versions": [
